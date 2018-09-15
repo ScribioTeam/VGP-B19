@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Makesoymilk.label>make seven milks</Makesoymilk.label>
+  <Makesoymilk.description>Press beans into milk.</Makesoymilk.description>
+  <Makesoymilk.jobString>Pressing beans.</Makesoymilk.jobString>
+
+  <Makesoycheese.label>make two cheese</Makesoycheese.label>
+  <Makesoycheese.description>Turn milk into cheese.</Makesoycheese.description>
+  <Makesoycheese.jobString>Pressing cheese.</Makesoycheese.jobString>
+
+  <Maketofu.label>make three tofus</Maketofu.label>
+  <Maketofu.description>Turn beans into tofu. Tofu is use in place of meat in meals or eatten raw. \n\nMakes 3 servings.</Maketofu.description>
+  <Maketofu.jobString>Making tofu.</Maketofu.jobString>
+
+  <Makebulktofu.label>make bulk tofu</Makebulktofu.label>
+  <Makebulktofu.description>Your increased cooking skill allows you to mass produce tofu more efficiently! \n\nMakes 10 servings.</Makebulktofu.description>
+  <Makebulktofu.jobString>Making tofu</Makebulktofu.jobString>
+
+  <MakePolenta.label>make two polenta</MakePolenta.label>
+  <MakePolenta.description>Turns cornmeal into polenta. Polenta can be eaten raw, cooked into other meals, baked, or grilled. \n\nMakes 2 servings.</MakePolenta.description>
+  <MakePolenta.jobString>Making polenta.</MakePolenta.jobString>
+
+  <MakebulkPolenta.label>Make bulk polenta</MakebulkPolenta.label>
+  <MakebulkPolenta.description>Turns cornmeal into polenta. Polenta can be eaten raw, cooked into other meals, baked, or grilled. \n\nMakes 10 servings.</MakebulkPolenta.description>
+  <MakebulkPolenta.jobString>Making polenta</MakebulkPolenta.jobString>
+
+  <PickleVegetable.label>pickle ten vegetables</PickleVegetable.label>
+  <PickleVegetable.description>Preserve ten vegetables in a salty brine to prevent spoiling.</PickleVegetable.description>
+  <PickleVegetable.jobString>Pickling food.</PickleVegetable.jobString>
+
+  <SaltMeat.label>salt ten meats</SaltMeat.label>
+  <SaltMeat.description>Preserve meats in salt to prevent spoiling.</SaltMeat.description>
+  <SaltMeat.jobString>Salting meat.</SaltMeat.jobString>
+
+  <VG_VeganEgg.label>make Vegan Egg Substitute</VG_VeganEgg.label>
+  <VG_VeganEgg.description>Vegan Egg Substitute is a egg shape product made from tofu, potatoes, or banana. Used in place of eggs in baking and other recipes.</VG_VeganEgg.description>
+  <VG_VeganEgg.jobString>Pickling food.</VG_VeganEgg.jobString>
+
+
+</LanguageData>

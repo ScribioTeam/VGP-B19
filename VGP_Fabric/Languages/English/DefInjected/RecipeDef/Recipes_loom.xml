@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeCloth.label>weave twenty cloths</MakeCloth.label>
+  <MakeCloth.description>weave cloth from raw cotton. \n\nMakes 20 cloth.</MakeCloth.description>
+  <MakeCloth.jobString>weaving fabric.</MakeCloth.jobString>
+
+  <MakeLinen.label>weave ten linen cloths</MakeLinen.label>
+  <MakeLinen.description>weave linen cloth from raw flax. \n\nMakes 10 cloth.</MakeLinen.description>
+  <MakeLinen.jobString>weaving linen cloth.</MakeLinen.jobString>
+
+  <MakeHempCloth.label>weave ten hemp cloths</MakeHempCloth.label>
+  <MakeHempCloth.description>Turn smokeleaf leaves into a hemp cloth.</MakeHempCloth.description>
+  <MakeHempCloth.jobString>weaving hemp cloth.</MakeHempCloth.jobString>
+
+  <MakePlasteelThread.label>craft twenty-five plasteel threads</MakePlasteelThread.label>
+  <MakePlasteelThread.description>Spin plasteel thread from plasteel metal. Used in advanced cloth weaving. \n\n Makes 25 Threads.</MakePlasteelThread.description>
+  <MakePlasteelThread.jobString>Spining plasteel thread.</MakePlasteelThread.jobString>
+
+  <MakeSynthreadCloth.label>weave ten synthread cloth</MakeSynthreadCloth.label>
+  <MakeSynthreadCloth.description>weave synthread cloth from raw cotton, raw flax, and plasteel thread. \n\nMakes 10 cloth.</MakeSynthreadCloth.description>
+  <MakeSynthreadCloth.jobString>weaving synthread cloth.</MakeSynthreadCloth.jobString>
+
+  <MakeDevilstrand.label>weave twelve devilstrand cloths</MakeDevilstrand.label>
+  <MakeDevilstrand.description>weave devilstrand cloth from raw devilstrand. \n\nMakes 12 cloth.</MakeDevilstrand.description>
+  <MakeDevilstrand.jobString>weaving devilstrand cloth.</MakeDevilstrand.jobString>
+
+  <MakeHyperweaveCloth.label>weave fifteen hyperweave cloths</MakeHyperweaveCloth.label>
+  <MakeHyperweaveCloth.description>weave hyperweave cloth from mixing raw cotton, raw flax, raw devilstrand, and plasteel thread. \n\nMakes 15 cloths.</MakeHyperweaveCloth.description>
+  <MakeHyperweaveCloth.jobString>weaving hyperweave cloth.</MakeHyperweaveCloth.jobString>
+
+  <Makeblendedwool.label>craft twenty blended wool</Makeblendedwool.label>
+  <Makeblendedwool.description>Blend wools from other blends of wool. \n\nMakes 20 wool.</Makeblendedwool.description>
+  <Makeblendedwool.jobString>Blending wool.</Makeblendedwool.jobString>
+
+  <Makeblendedcloth.label>weave twenty-five cloth from other fabric</Makeblendedcloth.label>
+  <Makeblendedcloth.description>Blend different fabrics into a simple cloth. \n\nMakes 25 cloth.</Makeblendedcloth.description>
+  <Makeblendedcloth.jobString>weaving cloth.</Makeblendedcloth.jobString>
+
+  <SalvageApparel.label>salvage apparel</SalvageApparel.label>
+  <SalvageApparel.description>Salvage unwanted apparel into raw materials.</SalvageApparel.description>
+  <SalvageApparel.jobString>Salvaging apparel.</SalvageApparel.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookGrillcheese.label>cuire deux fromages grillés</CookGrillcheese.label>
+  <CookGrillcheese.description>Deux tranches de pain grillées avec du fromage fondu au centre. \n\nDonne 2 portions. \n\nEffets des aliments : Métabolisme.</CookGrillcheese.description>
+  <CookGrillcheese.jobString>Grillade du pain.</CookGrillcheese.jobString>
+
+  <GrillPolenta.label>griller deux polenta</GrillPolenta.label>
+  <GrillPolenta.description>Tranches de polenta grillées. \n\nDonne 2 portions. \n\nEffets des aliments : Métabolisme et manipulation.</GrillPolenta.description>
+  <GrillPolenta.jobString>Grillade de la polenta</GrillPolenta.jobString>
+
+  <Cookgrilledsandwich.label>faire cuire deux cheeseburgers</Cookgrilledsandwich.label>
+  <Cookgrilledsandwich.description>Un sandwich fait de pain, de viande et de fromage. \n\nDonne 2 portions. \n\nEffets des aliments : Métabolisme.</Cookgrilledsandwich.description>
+  <Cookgrilledsandwich.jobString>Grillade du sandwich.</Cookgrilledsandwich.jobString>
+
+  <CookTacos.label>préparer cinq tacos</CookTacos.label>
+  <CookTacos.description>Viande et fromage dans une galette de maïs. Nécessite de la viande, du fromage et de la semoule de maïs. \n\n Donne 5 portions. \n\nEffets des aliments : Manipulation et métabolisme.</CookTacos.description>
+  <CookTacos.jobString>Préparation des tacos</CookTacos.jobString>
+
+  <CookPorridge.label>faire cuire deux porridge</CookPorridge.label>
+  <CookPorridge.description>Un simple porridge cuit à base de céréales. \n\nDonne 2 portions. \n\nEffets des aliments : Filtration de la vue et du sang.</CookPorridge.description>
+  <CookPorridge.jobString>Fabrication de porridge.</CookPorridge.jobString>
+
+
+</LanguageData>

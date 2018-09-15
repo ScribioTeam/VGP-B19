@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BrewAppleSoda.label>brew apple soda</BrewAppleSoda.label>
+  <BrewAppleSoda.description>Brew apples and syrup into a sweet soda.</BrewAppleSoda.description>
+  <BrewAppleSoda.jobString>Brewing apple soda</BrewAppleSoda.jobString>
+
+  <BrewBananaSoda.label>brew banana soda</BrewBananaSoda.label>
+  <BrewBananaSoda.description>Brew bananas and syrup into a sweet soda.</BrewBananaSoda.description>
+  <BrewBananaSoda.jobString>Brewing banana soda</BrewBananaSoda.jobString>
+
+  <BrewGrapeSoda.label>brew grape soda</BrewGrapeSoda.label>
+  <BrewGrapeSoda.description>Brew grapes and syrup into a sweet soda.</BrewGrapeSoda.description>
+  <BrewGrapeSoda.jobString>Brewing grape soda</BrewGrapeSoda.jobString>
+
+  <BrewOrangeSoda.label>brew orange soda</BrewOrangeSoda.label>
+  <BrewOrangeSoda.description>Brew oranges and syrup into a sweet soda.</BrewOrangeSoda.description>
+  <BrewOrangeSoda.jobString>Brewing orange soda</BrewOrangeSoda.jobString>
+
+  <BrewPeachSoda.label>brew peach soda</BrewPeachSoda.label>
+  <BrewPeachSoda.description>Brew peaches and syrup into a sweet soda.</BrewPeachSoda.description>
+  <BrewPeachSoda.jobString>Brewing peach soda</BrewPeachSoda.jobString>
+
+  <BrewPineappleSoda.label>brew pineapple soda</BrewPineappleSoda.label>
+  <BrewPineappleSoda.description>Brew pineapples and syrup into a sweet soda.</BrewPineappleSoda.description>
+  <BrewPineappleSoda.jobString>Brewing pineapple soda</BrewPineappleSoda.jobString>
+
+  <BrewBlueberrySoda.label>brew blueberry soda</BrewBlueberrySoda.label>
+  <BrewBlueberrySoda.description>Brew blueberries and syrup into a sweet soda.</BrewBlueberrySoda.description>
+  <BrewBlueberrySoda.jobString>Brewing blueberry soda</BrewBlueberrySoda.jobString>
+
+  <BrewWatermelonSoda.label>brew watermelon soda</BrewWatermelonSoda.label>
+  <BrewWatermelonSoda.description>Brew watermelons and syrup into a sweet soda.</BrewWatermelonSoda.description>
+  <BrewWatermelonSoda.jobString>Brewing watermelon soda</BrewWatermelonSoda.jobString>
+
+  <BrewCloudberrySoda.label>brew cloudberry soda</BrewCloudberrySoda.label>
+  <BrewCloudberrySoda.description>Brew cloudberries and syrup into a sweet soda.</BrewCloudberrySoda.description>
+  <BrewCloudberrySoda.jobString>Brewing cloudberry soda</BrewCloudberrySoda.jobString>
+
+  <BrewGooseberrySoda.label>brew gooseberry soda</BrewGooseberrySoda.label>
+  <BrewGooseberrySoda.description>Brew gooseberries and syrup into a sweet soda.</BrewGooseberrySoda.description>
+  <BrewGooseberrySoda.jobString>Brewing gooseberry soda</BrewGooseberrySoda.jobString>
+
+  <BrewDateSoda.label>brew date soda</BrewDateSoda.label>
+  <BrewDateSoda.description>Brew dates and syrup into a sweet soda.</BrewDateSoda.description>
+  <BrewDateSoda.jobString>Brewing date soda</BrewDateSoda.jobString>
+
+  <BrewFigSoda.label>brew fig soda</BrewFigSoda.label>
+  <BrewFigSoda.description>Brew figs and syrup into a sweet soda.</BrewFigSoda.description>
+  <BrewFigSoda.jobString>Brewing fig soda</BrewFigSoda.jobString>
+
+  <BrewCherrySoda.label>brew Cherry soda</BrewCherrySoda.label>
+  <BrewCherrySoda.description>Brew cherries and syrup into a sweet soda.</BrewCherrySoda.description>
+  <BrewCherrySoda.jobString>Brewing cherry soda</BrewCherrySoda.jobString>
+
+  <BrewMysterySoda.label>brew mystery soda</BrewMysterySoda.label>
+  <BrewMysterySoda.description>Brew fruits and syrup into a sweet soda.</BrewMysterySoda.description>
+  <BrewMysterySoda.jobString>Brewing mystery soda</BrewMysterySoda.jobString>
+
+  <BrewCoconutSoda.label>brew coconut soda</BrewCoconutSoda.label>
+  <BrewCoconutSoda.description>Brew coconuts and syrup into a sweet soda.</BrewCoconutSoda.description>
+  <BrewCoconutSoda.jobString>Brewing coconut soda</BrewCoconutSoda.jobString>
+
+  <BrewSimpleSyrupVG.label>brew simple syrup (VG fruit)</BrewSimpleSyrupVG.label>
+  <BrewSimpleSyrupVG.description>Brew syrup by reducing high-sugar fruits from the Vegetable Garden mod.</BrewSimpleSyrupVG.description>
+  <BrewSimpleSyrupVG.jobString>Brewing simple syrup</BrewSimpleSyrupVG.jobString>
+
+  <BulkBrewSimpleSyrupVG.label>Bulk brew simple syrup (8) (VG fruit)</BulkBrewSimpleSyrupVG.label>
+  <BulkBrewSimpleSyrupVG.description>Bulk Brew syrup by reducing high-sugar fruits from the Vegetable Garden mod. Makes 8.</BulkBrewSimpleSyrupVG.description>
+  <BulkBrewSimpleSyrupVG.jobString>Brewing simple syrup</BulkBrewSimpleSyrupVG.jobString>
+
+
+</LanguageData>

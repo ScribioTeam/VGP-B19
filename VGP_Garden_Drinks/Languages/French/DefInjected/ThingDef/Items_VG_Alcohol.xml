@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <cider.label>Cidre de pomme</cider.label>
+  <cider.description>Le cidre de pomme Shinzee's est un alcool sucré à base de pommes.</cider.description>
+  <cider.tools.0.label>bouteille</cider.tools.0.label>
+  <cider.tools.1.label>goulot</cider.tools.1.label>
+  <cider.ingestible.ingestCommandString>Boire {0}</cider.ingestible.ingestCommandString>
+  <cider.ingestible.ingestReportString>En buvant {0}.</cider.ingestible.ingestReportString>
+
+  <rum.label>Rhum</rum.label>
+  <rum.description>Le rhum de REinstein. Où est passé tout le rhum ?</rum.description>
+  <rum.tools.0.label>bouteillee</rum.tools.0.label>
+  <rum.tools.1.label>goulot</rum.tools.1.label>
+  <rum.ingestible.ingestCommandString>Boire {0}</rum.ingestible.ingestCommandString>
+  <rum.ingestible.ingestReportString>En buvant {0}.</rum.ingestible.ingestReportString>
+
+  <Wine.label>Vin</Wine.label>
+  <Wine.description>Un alcool doux de raisin. Des réserves privées de Ramsi, souvent volées et passées en contrebande.</Wine.description>
+  <Wine.tools.0.label>bouteille</Wine.tools.0.label>
+  <Wine.tools.1.label>goulot</Wine.tools.1.label>
+  <Wine.ingestible.ingestCommandString>Boire {0}</Wine.ingestible.ingestCommandString>
+  <Wine.ingestible.ingestReportString>En buvant {0}.</Wine.ingestible.ingestReportString>
+
+  <strawberrywine.label>Vin de fraise</strawberrywine.label>
+  <strawberrywine.description>L'artiste Spoonshortage avait deux passions dans la vie. L'art et son amour du vin de fraise. A tel point qu'elle a dépensé sa fortune à développer sa propre marque. Elle s'est rapidement répandue dans toute la région du Rim, comme la meilleure et la seule marque à boire. C'est un alcool doux et rosé de fraises.</strawberrywine.description>
+  <strawberrywine.tools.0.label>bouteille</strawberrywine.tools.0.label>
+  <strawberrywine.tools.1.label>goulot</strawberrywine.tools.1.label>
+  <strawberrywine.ingestible.ingestCommandString>Boire {0}</strawberrywine.ingestible.ingestCommandString>
+  <strawberrywine.ingestible.ingestReportString>En buvant  {0}.</strawberrywine.ingestible.ingestReportString>
+
+  <saki.label>Saké</saki.label>
+  <saki.description>Saké WHiZ. Un alcool croquant et rafraîchissant à base de riz.</saki.description>
+  <saki.tools.0.label>bouteille</saki.tools.0.label>
+  <saki.tools.1.label>goulot</saki.tools.1.label>
+  <saki.ingestible.ingestCommandString>Boire {0}</saki.ingestible.ingestCommandString>
+  <saki.ingestible.ingestReportString>En buvant {0}.</saki.ingestible.ingestReportString>
+
+  <vodka.label>Vodka</vodka.label>
+  <vodka.description>La vodka de marque Syntria est un alcool clair à base de pommes de terre. Créé par l'une des personnalités télévisuelles les plus célèbres du Rim.</vodka.description>
+  <vodka.tools.0.label>bouteille</vodka.tools.0.label>
+  <vodka.tools.1.label>goulot</vodka.tools.1.label>
+  <vodka.ingestible.ingestCommandString>Boire {0}</vodka.ingestible.ingestCommandString>
+  <vodka.ingestible.ingestReportString>En buvant {0}.</vodka.ingestible.ingestReportString>
+
+  <tequila.label>Tequila</tequila.label>
+  <tequila.description>La tequila de Kitty est une liqueur puissante à base d'agave. Il y a une photo de ce qui ressemble à une femme nue et en état d'ébriété sur la bouteille. Une fois découverte par un certain Orassan, elle a rapidement mis au point la recette et elle est devenue une boisson très populaire sur Orassia et a développé une réputation encore plus riche en histoire.</tequila.description>
+  <tequila.tools.0.label>bouteille</tequila.tools.0.label>
+  <tequila.tools.1.label>goulot</tequila.tools.1.label>
+  <tequila.ingestible.ingestCommandString>Boire {0}</tequila.ingestible.ingestCommandString>
+  <tequila.ingestible.ingestReportString>En buvant {0}.</tequila.ingestible.ingestReportString>
+
+  <whisky.label>Whisky</whisky.label>
+  <whisky.description>Le whisky n°18 de Quill. Il faut 18 ans pour vieillir cette boisson à la perfection. Ces contrefaçons bon marché ont été faites pour ajouter des saveurs afin d'accélérer le processus. Un alcool doré à base de maïs.</whisky.description>
+  <whisky.tools.0.label>bouteille</whisky.tools.0.label>
+  <whisky.tools.1.label>goulot</whisky.tools.1.label>
+  <whisky.ingestible.ingestCommandString>Boire {0}</whisky.ingestible.ingestCommandString>
+  <whisky.ingestible.ingestReportString>En buvant {0}.</whisky.ingestible.ingestReportString>
+
+  <BrownAle.label>Bière brune</BrownAle.label>
+  <BrownAle.description>La bière brune Barky's. Une bière de couleur ambre foncé. Fabriqué à partir de grains d'orge.</BrownAle.description>
+  <BrownAle.tools.0.label>bouteille</BrownAle.tools.0.label>
+  <BrownAle.tools.1.label>goulot</BrownAle.tools.1.label>
+  <BrownAle.ingestible.ingestCommandString>Boire {0}</BrownAle.ingestible.ingestCommandString>
+  <BrownAle.ingestible.ingestReportString>En buvant {0}.</BrownAle.ingestible.ingestReportString>
+
+  <Fruitshine.label>Fruits</Fruitshine.label>
+  <Fruitshine.description>Fruits est un alcool sucré à base de fruits. Basé sur de vieilles recettes de moonshining.</Fruitshine.description>
+  <Fruitshine.tools.0.label>bouteille</Fruitshine.tools.0.label>
+  <Fruitshine.tools.1.label>goulot</Fruitshine.tools.1.label>
+  <Fruitshine.ingestible.ingestCommandString>Boire {0}</Fruitshine.ingestible.ingestCommandString>
+  <Fruitshine.ingestible.ingestReportString>En buvant {0}.</Fruitshine.ingestible.ingestReportString>
+
+
+</LanguageData>

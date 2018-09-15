@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Oven.label>oven</Oven.label>
+  <Oven.description>A stone oven used for baking.</Oven.description>
+  <Oven_Blueprint.label>oven (blueprint)</Oven_Blueprint.label>
+  <Oven_Blueprint_Install.label>oven (blueprint)</Oven_Blueprint_Install.label>
+  <Oven_Frame.label>oven (building)</Oven_Frame.label>
+  <Oven_Frame.description>A stone oven used for baking.</Oven_Frame.description>
+
+  <ElectricOven.label>electric oven</ElectricOven.label>
+  <ElectricOven.description>A electric oven used for baking.</ElectricOven.description>
+  <ElectricOven_Blueprint.label>electric oven (blueprint)</ElectricOven_Blueprint.label>
+  <ElectricOven_Blueprint_Install.label>electric oven (blueprint)</ElectricOven_Blueprint_Install.label>
+  <ElectricOven_Frame.label>electric oven (building)</ElectricOven_Frame.label>
+  <ElectricOven_Frame.description>A electric oven used for baking.</ElectricOven_Frame.description>
+
+  <HandCanningstove.label>Fueled Food prep table</HandCanningstove.label>
+  <HandCanningstove.description>An unpowered version of the canning stove, food press, and prep table. Makes simple items. Requires 40% work to make items here.</HandCanningstove.description>
+  <HandCanningstove_Blueprint.label>Fueled Food prep table (blueprint)</HandCanningstove_Blueprint.label>
+  <HandCanningstove_Blueprint_Install.label>Fueled Food prep table (blueprint)</HandCanningstove_Blueprint_Install.label>
+  <HandCanningstove_Frame.label>Fueled Food prep table (building)</HandCanningstove_Frame.label>
+  <HandCanningstove_Frame.description>An unpowered version of the canning stove, food press, and prep table. Makes simple items. Requires 40% work to make items here.</HandCanningstove_Frame.description>
+
+  <Canningstove.label>Food prep table</Canningstove.label>
+  <Canningstove.description>An electric canning stove, food press, and prep table.</Canningstove.description>
+  <Canningstove_Blueprint.label>Food prep table (blueprint)</Canningstove_Blueprint.label>
+  <Canningstove_Blueprint_Install.label>Food prep table (blueprint)</Canningstove_Blueprint_Install.label>
+  <Canningstove_Frame.label>Food prep table (building)</Canningstove_Frame.label>
+  <Canningstove_Frame.description>An electric canning stove, food press, and prep table.</Canningstove_Frame.description>
+
+  <FueledCandyTable.label>Fueled Sweets Table</FueledCandyTable.label>
+  <FueledCandyTable.description>Makes sweet treates.</FueledCandyTable.description>
+  <FueledCandyTable_Blueprint.label>Fueled Sweets Table (blueprint)</FueledCandyTable_Blueprint.label>
+  <FueledCandyTable_Blueprint_Install.label>Fueled Sweets Table (blueprint)</FueledCandyTable_Blueprint_Install.label>
+  <FueledCandyTable_Frame.label>Fueled Sweets Table (building)</FueledCandyTable_Frame.label>
+  <FueledCandyTable_Frame.description>Makes sweet treates.</FueledCandyTable_Frame.description>
+
+  <CandyTable.label>Sweets Table</CandyTable.label>
+  <CandyTable.description>Makes sweet treates.</CandyTable.description>
+  <CandyTable_Blueprint.label>Sweets Table (blueprint)</CandyTable_Blueprint.label>
+  <CandyTable_Blueprint_Install.label>Sweets Table (blueprint)</CandyTable_Blueprint_Install.label>
+  <CandyTable_Frame.label>Sweets Table (building)</CandyTable_Frame.label>
+  <CandyTable_Frame.description>Makes sweet treates.</CandyTable_Frame.description>
+
+  <CookingTools.label>Cooking tools</CookingTools.label>
+  <CookingTools.description>Increases work speed 14%. Needs to be placed near cooking tops. Will boost the cook speed of all tables near by.</CookingTools.description>
+  <CookingTools_Blueprint.label>Cooking tools (blueprint)</CookingTools_Blueprint.label>
+  <CookingTools_Blueprint_Install.label>Cooking tools (blueprint)</CookingTools_Blueprint_Install.label>
+  <CookingTools_Frame.label>Cooking tools (building)</CookingTools_Frame.label>
+  <CookingTools_Frame.description>Increases work speed 14%. Needs to be placed near cooking tops. Will boost the cook speed of all tables near by.</CookingTools_Frame.description>
+
+  <GrindStone.label>Milling Stone</GrindStone.label>
+  <GrindStone.description>A small muscle-powered grinding stone for quickly grinding raw plants.</GrindStone.description>
+  <GrindStone_Blueprint.label>Milling Stone (blueprint)</GrindStone_Blueprint.label>
+  <GrindStone_Blueprint_Install.label>Milling Stone (blueprint)</GrindStone_Blueprint_Install.label>
+  <GrindStone_Frame.label>Milling Stone (building)</GrindStone_Frame.label>
+  <GrindStone_Frame.description>A small muscle-powered grinding stone for quickly grinding raw plants.</GrindStone_Frame.description>
+
+
+</LanguageData>

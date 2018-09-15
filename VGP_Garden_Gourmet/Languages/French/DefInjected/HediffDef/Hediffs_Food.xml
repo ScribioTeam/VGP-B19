@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedGmeat.label>Manger de la viande grillée</HedGmeat.label>
+  <HedGmeat.stages.0.label>Bien nourri : viande grillée</HedGmeat.stages.0.label>
+
+  <HedIceCream.label>Manger de la crème glacée</HedIceCream.label>
+  <HedIceCream.stages.0.label>Bien nourri : crème glacée</HedIceCream.stages.0.label>
+
+  <HedPizza.label>Manger de la pizza</HedPizza.label>
+  <HedPizza.stages.0.label>Bien nourri : Pizza</HedPizza.stages.0.label>
+
+  <HedPorridge.label>Manger du porridge </HedPorridge.label>
+  <HedPorridge.stages.0.label>Bien nourri : Porridge</HedPorridge.stages.0.label>
+
+  <HedSmoothie.label>Boire un smoothie</HedSmoothie.label>
+  <HedSmoothie.stages.0.label>Bien nourri : Smoothie</HedSmoothie.stages.0.label>
+
+  <HedTacos.label>Manger un tacos</HedTacos.label>
+  <HedTacos.stages.0.label>Bien nourri : Tacos</HedTacos.stages.0.label>
+
+  <HedYogurt.label>Manger un yaourt</HedYogurt.label>
+  <HedYogurt.stages.0.label>Bien nourri : yaourt</HedYogurt.stages.0.label>
+
+  <HedGrilledchz.label>Manger du fromage grillé</HedGrilledchz.label>
+  <HedGrilledchz.stages.0.label>Bien nourri : fromage grillé</HedGrilledchz.stages.0.label>
+
+  <HedSweetbun.label>Manger une pâtisserie</HedSweetbun.label>
+  <HedSweetbun.stages.0.label>Bien nourri : pâtisserie</HedSweetbun.stages.0.label>
+
+  <HedPolenta.label>Manger de la polenta</HedPolenta.label>
+  <HedPolenta.stages.0.label>Bien nourri : Polenta</HedPolenta.stages.0.label>
+
+
+</LanguageData>

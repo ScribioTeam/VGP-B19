@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BrewAppleSoda.label>Brasser du soda à la pomme</BrewAppleSoda.label>
+  <BrewAppleSoda.description>Brasser des pommes et du sirop dans un soda sucré.</BrewAppleSoda.description>
+  <BrewAppleSoda.jobString>Brassage du soda à la pomme </BrewAppleSoda.jobString>
+
+  <BrewBananaSoda.label>Brasser du soda à la banane</BrewBananaSoda.label>
+  <BrewBananaSoda.description>Brasser des bananes et du sirop dans un soda sucré.</BrewBananaSoda.description>
+  <BrewBananaSoda.jobString>Brassage du soda à la banane</BrewBananaSoda.jobString>
+
+  <BrewGrapeSoda.label>Brasser du soda au raisin</BrewGrapeSoda.label>
+  <BrewGrapeSoda.description>Brasser du raisin et du sirop dans un soda sucré.</BrewGrapeSoda.description>
+  <BrewGrapeSoda.jobString>Brassage du soda au raisin</BrewGrapeSoda.jobString>
+
+  <BrewOrangeSoda.label>Brasser du soda à l'orange</BrewOrangeSoda.label>
+  <BrewOrangeSoda.description>Brasser des oranges et du sirop dans un soda sucré.</BrewOrangeSoda.description>
+  <BrewOrangeSoda.jobString>Brassage du soda à l'orange</BrewOrangeSoda.jobString>
+
+  <BrewPeachSoda.label>Brasser du soda à la pêche</BrewPeachSoda.label>
+  <BrewPeachSoda.description>Brasser des pêches et du sirop dans un soda sucré.</BrewPeachSoda.description>
+  <BrewPeachSoda.jobString>Brassage du soda à la pêche</BrewPeachSoda.jobString>
+
+  <BrewPineappleSoda.label>Brasser du soda à l'ananas</BrewPineappleSoda.label>
+  <BrewPineappleSoda.description>Brasser des ananas et du sirop dans un soda sucré.</BrewPineappleSoda.description>
+  <BrewPineappleSoda.jobString>Brassage du soda à l'ananas</BrewPineappleSoda.jobString>
+
+  <BrewBlueberrySoda.label>Brasser du soda à la myrtille</BrewBlueberrySoda.label>
+  <BrewBlueberrySoda.description>Brasser des myrtilles et du sirop dans un soda sucré.</BrewBlueberrySoda.description>
+  <BrewBlueberrySoda.jobString>Brassage du soda à la myrtille</BrewBlueberrySoda.jobString>
+
+  <BrewWatermelonSoda.label>Brasser du soda à la pastèque</BrewWatermelonSoda.label>
+  <BrewWatermelonSoda.description>Brasser des pastèques et du sirop dans un soda sucré.</BrewWatermelonSoda.description>
+  <BrewWatermelonSoda.jobString>Brassage du soda à la pastèque</BrewWatermelonSoda.jobString>
+
+  <BrewCloudberrySoda.label>Brasser du soda à la plaquebière</BrewCloudberrySoda.label>
+  <BrewCloudberrySoda.description>Brasser des plaquebières et du sirop dans un soda sucré.</BrewCloudberrySoda.description>
+  <BrewCloudberrySoda.jobString>Brassage du soda à la plaquebière</BrewCloudberrySoda.jobString>
+
+  <BrewGooseberrySoda.label>Brasser du soda à la groseille à maquereau</BrewGooseberrySoda.label>
+  <BrewGooseberrySoda.description>Brasser des grosseilles à maquereau et du sirop dans un soda sucré.</BrewGooseberrySoda.description>
+  <BrewGooseberrySoda.jobString>Brassage du soda à la groseille à maquereau</BrewGooseberrySoda.jobString>
+
+  <BrewDateSoda.label>Brasser du soda à la datte</BrewDateSoda.label>
+  <BrewDateSoda.description>Brasser des dattes et du sirop dans un soda sucré.</BrewDateSoda.description>
+  <BrewDateSoda.jobString>Brassage du soda à la datte</BrewDateSoda.jobString>
+
+  <BrewFigSoda.label>Brasser du soda à la figue</BrewFigSoda.label>
+  <BrewFigSoda.description>Brasser des figues et du sirop dans un soda sucré.</BrewFigSoda.description>
+  <BrewFigSoda.jobString>Brassage du soda à la figue</BrewFigSoda.jobString>
+
+  <BrewCherrySoda.label>Brasser du soda à la cerise</BrewCherrySoda.label>
+  <BrewCherrySoda.description>Brasser des cerises et du sirop dans un soda sucré.</BrewCherrySoda.description>
+  <BrewCherrySoda.jobString>Brassage du soda à la cerise</BrewCherrySoda.jobString>
+
+  <BrewMysterySoda.label>Brasser du soda mystère</BrewMysterySoda.label>
+  <BrewMysterySoda.description>Brasser des fruits et du sirop dans un soda sucré.</BrewMysterySoda.description>
+  <BrewMysterySoda.jobString>Brassage du soda mystère</BrewMysterySoda.jobString>
+
+  <BrewCoconutSoda.label>Brasser du soda à la noix de coco</BrewCoconutSoda.label>
+  <BrewCoconutSoda.description>Brasser des noix de coco et du sirop dans un soda sucré.</BrewCoconutSoda.description>
+  <BrewCoconutSoda.jobString>Brassage du soda à la noix de coco</BrewCoconutSoda.jobString>
+
+  <BrewSimpleSyrupVG.label>Brasser du sirop simple (fruit VG)</BrewSimpleSyrupVG.label>
+  <BrewSimpleSyrupVG.description>Brasser le sirop en réduisant les fruits à haute teneur en sucre du Vegetable Garden Mod.</BrewSimpleSyrupVG.description>
+  <BrewSimpleSyrupVG.jobString>Brassage du sirop simple</BrewSimpleSyrupVG.jobString>
+
+  <BulkBrewSimpleSyrupVG.label>Brasser du sirop simple en vrac (8) (fruit VG)</BulkBrewSimpleSyrupVG.label>
+  <BulkBrewSimpleSyrupVG.description>Brasser du sirop simple en vrac en réduisant les fruits à haute teneur en sucre du Vegetable Garden Mod.En donne 8.</BulkBrewSimpleSyrupVG.description>
+  <BulkBrewSimpleSyrupVG.jobString>Brassage du sirop simple</BulkBrewSimpleSyrupVG.jobString>
+
+
+</LanguageData>

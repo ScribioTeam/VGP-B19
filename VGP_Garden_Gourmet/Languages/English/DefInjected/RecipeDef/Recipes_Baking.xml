@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BakeBread.label>bake three breads</BakeBread.label>
+  <BakeBread.description>Bake bread from flour. \n\nMakes 3 Bread.</BakeBread.description>
+  <BakeBread.jobString>Baking bread.</BakeBread.jobString>
+
+  <Bakesweetroll.label>bake four sweet rolls</Bakesweetroll.label>
+  <Bakesweetroll.description>A sweet roll covered in sugary icying. \n\nMakes 4 servings. \n\nFood Effects: Consciousness and Moving.</Bakesweetroll.description>
+  <Bakesweetroll.jobString>Baking sweet rolls.</Bakesweetroll.jobString>
+
+  <Bakepizza.label>bake three pizzas</Bakepizza.label>
+  <Bakepizza.description>Bake pizza. \n\nMakes 3 servings. \n\nFood Effects: Consciousness and Metabolism.</Bakepizza.description>
+  <Bakepizza.jobString>Baking pizza.</Bakepizza.jobString>
+
+  <BakeCookies.label>bake cookies</BakeCookies.label>
+  <BakeCookies.description>Bake six cookies. \n\nMakes 6 cookies.</BakeCookies.description>
+  <BakeCookies.jobString>Baking cookies.</BakeCookies.jobString>
+
+  <BakeBlueberryPie.label>bake three pies</BakeBlueberryPie.label>
+  <BakeBlueberryPie.description>Bake a tasty fruit filled pie. \n\nMakes 3 pie slices.</BakeBlueberryPie.description>
+  <BakeBlueberryPie.jobString>Baking pie.</BakeBlueberryPie.jobString>
+
+  <DryFruit.label>dehydrate ten fruits</DryFruit.label>
+  <DryFruit.description>Dries out fruit to increase its lifespan.</DryFruit.description>
+  <DryFruit.jobString>Dehydrating fruit.</DryFruit.jobString>
+
+  <Bakepolenta.label>bake a polenta loaf</Bakepolenta.label>
+  <Bakepolenta.description>Bake a tasty polenta loaf. \n\nMakes 1 slices.</Bakepolenta.description>
+  <Bakepolenta.jobString>Baking polenta.</Bakepolenta.jobString>
+
+  <BakeCornbread.label>bake two cornbread</BakeCornbread.label>
+  <BakeCornbread.description>Bake a tasty cornbread loaf. \n\nMakes 2 loafs.</BakeCornbread.description>
+  <BakeCornbread.jobString>Baking cornbread.</BakeCornbread.jobString>
+
+  <Bakemuffin.label>bake six muffins</Bakemuffin.label>
+  <Bakemuffin.description>Bake some tasty muffins.\n\nTakes 8 Flour. 4 Sugar. And  6 of either chocolate, fruit, or Cornmeal. \n\nMakes 6 muffins.</Bakemuffin.description>
+  <Bakemuffin.jobString>Baking muffins.</Bakemuffin.jobString>
+
+  <BakeMeatPie.label>bake two meat pies</BakeMeatPie.label>
+  <BakeMeatPie.description>Bake a tasty pie. \n\nMakes 2 pies.</BakeMeatPie.description>
+  <BakeMeatPie.jobString>Baking pie.</BakeMeatPie.jobString>
+
+
+</LanguageData>

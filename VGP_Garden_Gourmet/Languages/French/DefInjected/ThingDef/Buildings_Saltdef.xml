@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Resource rocks -->
+
+  <MineableSalt.label>sel compacté</MineableSalt.label>
+  <MineableSalt.description>Le sel s'est compacté avec le temps..</MineableSalt.description>
+
+  <ChunkSalt.label>sel</ChunkSalt.label>
+  <ChunkSalt.description>Le sel est utilisé dans la conservation des aliments.</ChunkSalt.description>
+
+  <VG_SaltMine.label>mine de sel</VG_SaltMine.label>
+  <VG_SaltMine.description>Placer sur une pierre brute pour déterrer le sel.</VG_SaltMine.description>
+  <VG_SaltMine_Blueprint.label>mine de sel (projet)</VG_SaltMine_Blueprint.label>
+  <VG_SaltMine_Frame.label>mine de sel (bâtiment)</VG_SaltMine_Frame.label>
+  <VG_SaltMine_Frame.description>Placer sur une pierre brute pour déterrer le sel.</VG_SaltMine_Frame.description>
+
+
+</LanguageData>

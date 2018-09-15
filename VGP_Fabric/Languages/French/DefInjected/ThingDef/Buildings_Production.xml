@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableLoom.label>Table de tailleur</TableLoom.label>
+  <TableLoom.description>Une table de tailleur utilisée pour filer les matières premières en tissu utilisable.</TableLoom.description>
+  <TableLoom_Blueprint.label>Table de tailleur (projet)</TableLoom_Blueprint.label>
+  <TableLoom_Blueprint_Install.label>Table de tailleur (projet)</TableLoom_Blueprint_Install.label>
+  <TableLoom_Frame.label>Table de tailleur (objet)</TableLoom_Frame.label>
+  <TableLoom_Frame.description>Une table de tailleur utilisée pour filer les matières premières en tissu utilisable.</TableLoom_Frame.description>
+
+  <TableElecLoom.label>Table de tailleur électrique</TableElecLoom.label>
+  <TableElecLoom.description>Une table de tailleur utilisée pour filer les matières premières en tissu utilisable.</TableElecLoom.description>
+  <TableElecLoom_Blueprint.label>Table de tailleur électrique (projet)</TableElecLoom_Blueprint.label>
+  <TableElecLoom_Blueprint_Install.label>Table de tailleur électrique (projet)</TableElecLoom_Blueprint_Install.label>
+  <TableElecLoom_Frame.label>Table de tailleur électrique (objet)</TableElecLoom_Frame.label>
+  <TableElecLoom_Frame.description>Une table de tailleur utilisée pour filer les matières premières en tissu utilisable.</TableElecLoom_Frame.description>
+
+
+</LanguageData>

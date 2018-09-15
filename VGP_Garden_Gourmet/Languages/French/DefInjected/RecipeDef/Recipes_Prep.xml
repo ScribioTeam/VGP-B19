@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Makesoymilk.label>faire sept laits</Makesoymilk.label>
+  <Makesoymilk.description>Presser les graines dans le lait.</Makesoymilk.description>
+  <Makesoymilk.jobString>Pressurage des grains.</Makesoymilk.jobString>
+
+  <Makesoycheese.label>faire deux fromages</Makesoycheese.label>
+  <Makesoycheese.description>Transformer le lait en fromage.</Makesoycheese.description>
+  <Makesoycheese.jobString>Pressurage du fromage</Makesoycheese.jobString>
+
+  <Maketofu.label>mfaire trois tofus</Maketofu.label>
+  <Maketofu.description>Transformer les grains en tofu. Le tofu est utilisé à la place de la viande dans les repas ou consommé cru. \n\nDonne 3 portions.</Maketofu.description>
+  <Maketofu.jobString>Fabrication de tofu</Maketofu.jobString>
+
+  <Makebulktofu.label>faire du tofu en vrac</Makebulktofu.label>
+  <Makebulktofu.description>Votre habileté accrue à cuisiner vous permet de produire du tofu en masse plus efficacement ! \n\nDonne 10 portions.</Makebulktofu.description>
+  <Makebulktofu.jobString>Fabrication de tofu</Makebulktofu.jobString>
+
+  <MakePolenta.label>faire deux polenta</MakePolenta.label>
+  <MakePolenta.description>Transforme la semoule de maïs en polenta. La polenta peut être consommée crue, cuite dans d'autres plats, cuite au four ou grillée. \n\nDonne 2 portions.</MakePolenta.description>
+  <MakePolenta.jobString>Fabrication de polenta.</MakePolenta.jobString>
+
+  <MakebulkPolenta.label>faire de la polenta en vrac</MakebulkPolenta.label>
+  <MakebulkPolenta.description>Transforme la semoule de maïs en polenta. La polenta peut être consommée crue, cuite dans d'autres plats, cuite au four ou grillée. \n\nDonne 10 portions.</MakebulkPolenta.description>
+  <MakebulkPolenta.jobString>Fabrication de polenta.</MakebulkPolenta.jobString>
+
+  <PickleVegetable.label>mariner dix légumes</PickleVegetable.label>
+  <PickleVegetable.description>Conservez dix légumes dans une saumure salée pour éviter qu'ils ne se détériorent..</PickleVegetable.description>
+  <PickleVegetable.jobString>Aliments en saumure</PickleVegetable.jobString>
+
+  <SaltMeat.label>sel dix viandes</SaltMeat.label>
+  <SaltMeat.description>Conserver les viandes dans du sel pour éviter qu'elles ne se détériorent.</SaltMeat.description>
+  <SaltMeat.jobString>Salage de la viande.</SaltMeat.jobString>
+
+  <VG_VeganEgg.label>faire un substitut d'oeuf végétalien</VG_VeganEgg.label>
+  <VG_VeganEgg.description>Le substitut d'oeuf végétalien est un produit de forme d'oeuf fait à partir de tofu, de pommes de terre ou de bananes. Utilisé à la place des œufs dans les recettes de pâtisserie et autres recettes.</VG_VeganEgg.description>
+  <VG_VeganEgg.jobString>Aliments en saumure.</VG_VeganEgg.jobString>
+
+
+</LanguageData>

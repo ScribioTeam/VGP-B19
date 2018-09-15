@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sweet -->
+
+  <MakeHardcandy.label>make four hard candies</MakeHardcandy.label>
+  <MakeHardcandy.description>Turn sugar into a sweet hard candy.</MakeHardcandy.description>
+  <MakeHardcandy.jobString>Making candy.</MakeHardcandy.jobString>
+
+  <MakeCaramel.label>make four caramels</MakeCaramel.label>
+  <MakeCaramel.description>Turn sugar into a sweet candy.</MakeCaramel.description>
+  <MakeCaramel.jobString>Making candy.</MakeCaramel.jobString>
+
+  <MakeTaffy.label>make four taffies</MakeTaffy.label>
+  <MakeTaffy.description>Turn sugar into a sweet candy.</MakeTaffy.description>
+  <MakeTaffy.jobString>Making candy.</MakeTaffy.jobString>
+
+  <MakeIcecream.label>make two ice-creams</MakeIcecream.label>
+  <MakeIcecream.description>A sweet frozen treat made from milk. \n\nMakes 2 servings. \n\nFood Effects: Moving and Blood Pumping.</MakeIcecream.description>
+  <MakeIcecream.jobString>Making ice-cream.</MakeIcecream.jobString>
+
+  <MakeYogurt.label>make two yogurts</MakeYogurt.label>
+  <MakeYogurt.description>A sweet treat made from milk. \n\nMakes 2 servings. \n\nFood Effects: Sight and Blood Filtration.</MakeYogurt.description>
+  <MakeYogurt.jobString>Making yogurt.</MakeYogurt.jobString>
+
+  <MakeSmoothie.label>make four smoothies</MakeSmoothie.label>
+  <MakeSmoothie.description>A sweet drink made from fruit and milk. \n\nMakes 4 servings. \n\nFood Effects: Sight and Moving.</MakeSmoothie.description>
+  <MakeSmoothie.jobString>Making smoothie.</MakeSmoothie.jobString>
+
+
+</LanguageData>

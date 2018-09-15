@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPD_Syrup.label>syrup</CPD_Syrup.label>
+  <CPD_Syrup.description>A bottle of syrup made by reducing foods containing a large amount of sugar.</CPD_Syrup.description>
+  <CPD_Syrup.ingestible.ingestCommandString>Drink {0}</CPD_Syrup.ingestible.ingestCommandString>
+  <CPD_Syrup.ingestible.ingestReportString>Drinking {0}.</CPD_Syrup.ingestible.ingestReportString>
+
+  <AppleSoda.label>apple soda</AppleSoda.label>
+  <AppleSoda.description>A sweet soda made from apples.</AppleSoda.description>
+  <AppleSoda.ingestible.ingestCommandString>Drink {0}</AppleSoda.ingestible.ingestCommandString>
+  <AppleSoda.ingestible.ingestReportString>Drinking {0}.</AppleSoda.ingestible.ingestReportString>
+
+  <BananaSoda.label>banana soda</BananaSoda.label>
+  <BananaSoda.description>A slightly sweet soda made from bananas.</BananaSoda.description>
+  <BananaSoda.ingestible.ingestCommandString>Drink {0}</BananaSoda.ingestible.ingestCommandString>
+  <BananaSoda.ingestible.ingestReportString>Drinking {0}.</BananaSoda.ingestible.ingestReportString>
+
+  <GrapeSoda.label>grape soda</GrapeSoda.label>
+  <GrapeSoda.description>A sweet soda made from grapes.</GrapeSoda.description>
+  <GrapeSoda.ingestible.ingestCommandString>Drink {0}</GrapeSoda.ingestible.ingestCommandString>
+  <GrapeSoda.ingestible.ingestReportString>Drinking {0}.</GrapeSoda.ingestible.ingestReportString>
+
+  <OrangeSoda.label>orange soda</OrangeSoda.label>
+  <OrangeSoda.description>A sweet and tangy soda made from oranges.</OrangeSoda.description>
+  <OrangeSoda.ingestible.ingestCommandString>Drink {0}</OrangeSoda.ingestible.ingestCommandString>
+  <OrangeSoda.ingestible.ingestReportString>Drinking {0}.</OrangeSoda.ingestible.ingestReportString>
+
+  <PeachSoda.label>peach soda</PeachSoda.label>
+  <PeachSoda.description>A sweet soda made from peaches.</PeachSoda.description>
+  <PeachSoda.ingestible.ingestCommandString>Drink {0}</PeachSoda.ingestible.ingestCommandString>
+  <PeachSoda.ingestible.ingestReportString>Drinking {0}.</PeachSoda.ingestible.ingestReportString>
+
+  <PineappleSoda.label>pineapple soda</PineappleSoda.label>
+  <PineappleSoda.description>A sweet and sour soda made from pineapples.</PineappleSoda.description>
+  <PineappleSoda.ingestible.ingestCommandString>Drink {0}</PineappleSoda.ingestible.ingestCommandString>
+  <PineappleSoda.ingestible.ingestReportString>Drinking {0}.</PineappleSoda.ingestible.ingestReportString>
+
+  <BlueberrySoda.label>blueberry soda</BlueberrySoda.label>
+  <BlueberrySoda.description>A sweet soda made from blueberries.</BlueberrySoda.description>
+  <BlueberrySoda.ingestible.ingestCommandString>Drink {0}</BlueberrySoda.ingestible.ingestCommandString>
+  <BlueberrySoda.ingestible.ingestReportString>Drinking {0}.</BlueberrySoda.ingestible.ingestReportString>
+
+  <WatermelonSoda.label>watermelon soda</WatermelonSoda.label>
+  <WatermelonSoda.description>A sweet soda made from watermelons.</WatermelonSoda.description>
+  <WatermelonSoda.ingestible.ingestCommandString>Drink {0}</WatermelonSoda.ingestible.ingestCommandString>
+  <WatermelonSoda.ingestible.ingestReportString>Drinking {0}.</WatermelonSoda.ingestible.ingestReportString>
+
+  <CloudberrySoda.label>cloudberry soda</CloudberrySoda.label>
+  <CloudberrySoda.description>A sweet soda made from cloudberries.</CloudberrySoda.description>
+  <CloudberrySoda.ingestible.ingestCommandString>Drink {0}</CloudberrySoda.ingestible.ingestCommandString>
+  <CloudberrySoda.ingestible.ingestReportString>Drinking {0}.</CloudberrySoda.ingestible.ingestReportString>
+
+  <GooseberrySoda.label>gooseberry soda</GooseberrySoda.label>
+  <GooseberrySoda.description>A sweet soda made from gooseberries.</GooseberrySoda.description>
+  <GooseberrySoda.ingestible.ingestCommandString>Drink {0}</GooseberrySoda.ingestible.ingestCommandString>
+  <GooseberrySoda.ingestible.ingestReportString>Drinking {0}.</GooseberrySoda.ingestible.ingestReportString>
+
+  <FigSoda.label>fig soda</FigSoda.label>
+  <FigSoda.description>A sweet soda made from figs.</FigSoda.description>
+  <FigSoda.ingestible.ingestCommandString>Drink {0}</FigSoda.ingestible.ingestCommandString>
+  <FigSoda.ingestible.ingestReportString>Drinking {0}.</FigSoda.ingestible.ingestReportString>
+
+  <DateSoda.label>date soda</DateSoda.label>
+  <DateSoda.description>A sweet soda made from dates.</DateSoda.description>
+  <DateSoda.ingestible.ingestCommandString>Drink {0}</DateSoda.ingestible.ingestCommandString>
+  <DateSoda.ingestible.ingestReportString>Drinking {0}.</DateSoda.ingestible.ingestReportString>
+
+  <CoconutSoda.label>coconut soda</CoconutSoda.label>
+  <CoconutSoda.description>A sweet soda made from coconuts.</CoconutSoda.description>
+  <CoconutSoda.ingestible.ingestCommandString>Drink {0}</CoconutSoda.ingestible.ingestCommandString>
+  <CoconutSoda.ingestible.ingestReportString>Drinking {0}.</CoconutSoda.ingestible.ingestReportString>
+
+  <CherrySoda.label>cherry soda</CherrySoda.label>
+  <CherrySoda.description>A sweet soda made from cherries.</CherrySoda.description>
+  <CherrySoda.ingestible.ingestCommandString>Drink {0}</CherrySoda.ingestible.ingestCommandString>
+  <CherrySoda.ingestible.ingestReportString>Drinking {0}.</CherrySoda.ingestible.ingestReportString>
+
+  <MysterySoda.label>mystery soda</MysterySoda.label>
+  <MysterySoda.description>A sweet soda made from random fruit.</MysterySoda.description>
+  <MysterySoda.ingestible.ingestCommandString>Drink {0}</MysterySoda.ingestible.ingestCommandString>
+  <MysterySoda.ingestible.ingestReportString>Drinking {0}.</MysterySoda.ingestible.ingestReportString>
+
+  <VegetableKvass.label>Beet Kvass</VegetableKvass.label>
+  <VegetableKvass.description>Kvass is a drink made from the natural fermentation of breads, such as wheat, rye, or barley, and sometimes flavoured using fruits, vegetables, and sugars.</VegetableKvass.description>
+  <VegetableKvass.ingestible.ingestCommandString>Drink {0}</VegetableKvass.ingestible.ingestCommandString>
+  <VegetableKvass.ingestible.ingestReportString>Drinking {0}.</VegetableKvass.ingestible.ingestReportString>
+
+  <KvassSoda.label>Kvass soda</KvassSoda.label>
+  <KvassSoda.description>Kvass is a drink made from the natural fermentation of breads, such as wheat, rye, or barley, and sometimes flavoured using fruits, vegetables, and sugars.</KvassSoda.description>
+  <KvassSoda.ingestible.ingestCommandString>Drink {0}</KvassSoda.ingestible.ingestCommandString>
+  <KvassSoda.ingestible.ingestReportString>Drinking {0}.</KvassSoda.ingestible.ingestReportString>
+
+  <FruitKvass.label>Fruit Kvass</FruitKvass.label>
+  <FruitKvass.description>Kvass is a drink made from the natural fermentation of breads, such as wheat, rye, or barley, and sometimes flavoured using fruits, vegetables, and sugars.</FruitKvass.description>
+  <FruitKvass.ingestible.ingestCommandString>Drink {0}</FruitKvass.ingestible.ingestCommandString>
+  <FruitKvass.ingestible.ingestReportString>Drinking {0}.</FruitKvass.ingestible.ingestReportString>
+
+
+</LanguageData>

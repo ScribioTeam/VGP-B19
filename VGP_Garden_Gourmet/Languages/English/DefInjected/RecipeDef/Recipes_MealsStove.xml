@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookGrillcheese.label>cook two grilled cheeses</CookGrillcheese.label>
+  <CookGrillcheese.description>Two slices of bread grilled with cheese melt in the middle. \n\nMakes 2 servings. \n\nFood Effects: Metabolism.</CookGrillcheese.description>
+  <CookGrillcheese.jobString>Toasting bread.</CookGrillcheese.jobString>
+
+  <GrillPolenta.label>grill two polenta</GrillPolenta.label>
+  <GrillPolenta.description>Grilled slices of Polenta. \n\nMakes 2 servings. \n\nFood Effects: Metabolism and Manipulation.</GrillPolenta.description>
+  <GrillPolenta.jobString>Grilling polenta.</GrillPolenta.jobString>
+
+  <Cookgrilledsandwich.label>cook two cheeseburgers</Cookgrilledsandwich.label>
+  <Cookgrilledsandwich.description>A sandwich made of bread, meat, and cheese. \n\nMakes 2 servings. \n\nFood Effects: Metabolism.</Cookgrilledsandwich.description>
+  <Cookgrilledsandwich.jobString>Grilling sandwich.</Cookgrilledsandwich.jobString>
+
+  <CookTacos.label>cook five tacos</CookTacos.label>
+  <CookTacos.description>Meat and Cheese in a corn shell. Requires meat, cheese, and cornmeal to make. \n\n Makes 5 servings. \n\nFood Effects: Manipulation and Metabolism.</CookTacos.description>
+  <CookTacos.jobString>Preparing tacos.</CookTacos.jobString>
+
+  <CookPorridge.label>cook two porridges</CookPorridge.label>
+  <CookPorridge.description>A simple porridge cooked from grains. \n\nMakes 2 servings. \n\nFood Effects: Sight and Blood Filtration.</CookPorridge.description>
+  <CookPorridge.jobString>Making porridge.</CookPorridge.jobString>
+
+
+</LanguageData>

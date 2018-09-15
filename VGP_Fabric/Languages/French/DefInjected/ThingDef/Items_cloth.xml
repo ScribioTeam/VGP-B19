@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- bases -->
+
+  <RawCotton.label>fibre de coton</RawCotton.label>
+  <RawCotton.description>Coton brut. Il peut être filé en tissu ou vendu à un commerçant.</RawCotton.description>
+
+  <RawFlax.label>Lin brut</RawFlax.label>
+  <RawFlax.description>Lin brut. Il peut être filé en tissu ou vendu à un commerçant.</RawFlax.description>
+
+  <RawDevilstrand.label>Devilstrand brut</RawDevilstrand.label>
+  <RawDevilstrand.description>Du fil de devilstrand. Il peut être filé en tissu ou vendu à un commerçant.</RawDevilstrand.description>
+
+  <VG_PlasteelThread.label>Fil plastacier </VG_PlasteelThread.label>
+  <VG_PlasteelThread.description>Fil filé à partir de plastacier fondu utilisé dans la production de tissus de pointe.</VG_PlasteelThread.description>
+
+  <HempCloth.label>chanvre</HempCloth.label>
+  <HempCloth.description>Du tissu tissé à partir de ce que ces types fument, qui a décidé que porter ça était une bonne idée ?.</HempCloth.description>
+  <HempCloth.stuffProps.stuffAdjective>chanvre</HempCloth.stuffProps.stuffAdjective>
+
+  <Flaxcloth.label>Tissu en lin</Flaxcloth.label>
+  <Flaxcloth.description>Tissu destiné à la confection de vêtements. Il est doux, léger et fort.</Flaxcloth.description>
+  <Flaxcloth.stuffProps.stuffAdjective>Tissu en lin</Flaxcloth.stuffProps.stuffAdjective>
+
+  <VG_BlendedWool.label>laine mélangée</VG_BlendedWool.label>
+  <VG_BlendedWool.description>Doux, léger et offre une très bonne isolation. Les vêtements en laine peuvent garder le corps au chaud même dans des conditions extrêmes.</VG_BlendedWool.description>
+  <VG_BlendedWool.stuffProps.stuffAdjective>laine mélangée</VG_BlendedWool.stuffProps.stuffAdjective>
+
+
+</LanguageData>

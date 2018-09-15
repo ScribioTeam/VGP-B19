@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VG_ClothI.label>Fil de synthèse</VG_ClothI.label>
+  <VG_ClothI.description>Recherches sur les méthodes de tissage synthétique. \nDévérouille le fil de synthèse sur la  table du tailleur.</VG_ClothI.description>
+
+  <VG_ClothII.label>hyper tissage</VG_ClothII.label>
+  <VG_ClothII.description>Recherches sur les méthodes de tissage de l'hyper tissage. \nDéverrouille la recette de l'hyper tissage sur la table du tailleur.</VG_ClothII.description>
+
+
+</LanguageData>

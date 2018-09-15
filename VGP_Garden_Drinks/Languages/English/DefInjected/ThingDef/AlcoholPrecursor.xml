@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alcohol Precursors -->
+
+  <CPD_CornWort.label>corn wort</CPD_CornWort.label>
+  <CPD_CornWort.description>Wort made from corn. This substance needs to ferment in a fermenting barrel before it becomes drinkable whiskey.</CPD_CornWort.description>
+
+  <CPD_RiceMash.label>rice mash</CPD_RiceMash.label>
+  <CPD_RiceMash.description>Milled, soaked, and cooked rice. This substance needs to ferment in a fermenting barrel before it becomes drinkable saki.</CPD_RiceMash.description>
+
+  <CPD_VodkaPrecursor.label>undistilled vodka</CPD_VodkaPrecursor.label>
+  <CPD_VodkaPrecursor.description>Fermented vodka. This substance needs to be filtered and distilled at a brewery before it becomes drinkable vodka.</CPD_VodkaPrecursor.description>
+
+  <CPD_WineMust.label>berry wine must</CPD_WineMust.label>
+  <CPD_WineMust.description>Pressed strawberry juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable strawberry wine.</CPD_WineMust.description>
+
+  <VG_CiderMust.label>cider must</VG_CiderMust.label>
+  <VG_CiderMust.description>Pressed apple juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable hard cider.</VG_CiderMust.description>
+
+  <VG_CaneMash.label>sugarcane mash</VG_CaneMash.label>
+  <VG_CaneMash.description>Milled, soaked, and cooked sugarcane. This substance needs to ferment in a fermenting barrel before it becomes drinkable rum.</VG_CaneMash.description>
+
+  <VG_GrapeMust.label>wine must</VG_GrapeMust.label>
+  <VG_GrapeMust.description>Pressed fruit juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable wine.</VG_GrapeMust.description>
+
+  <VG_AmbrosiaMust.label>ambrosia must</VG_AmbrosiaMust.label>
+  <VG_AmbrosiaMust.description>Pressed fruit juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable ambrosia.</VG_AmbrosiaMust.description>
+
+  <VG_AgaveMust.label>agave must</VG_AgaveMust.label>
+  <VG_AgaveMust.description>Pressed agave juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable tequila.</VG_AgaveMust.description>
+
+  <VG_FruitMash.label>fruit mash</VG_FruitMash.label>
+  <VG_FruitMash.description>Pressed and strained fruit juices. This substance needs to ferment in a fermenting barrel before it becomes drinkable fruitshine.</VG_FruitMash.description>
+
+  <VG_BrownMalt.label>brown malt</VG_BrownMalt.label>
+  <VG_BrownMalt.description>Preparing barley grain into a malt for making ale. This substance needs to ferment in a fermenting barrel before it becomes drinkable brown ale.</VG_BrownMalt.description>
+
+  <VG_KvassSodaWort.label>kvass soda wort</VG_KvassSodaWort.label>
+  <VG_KvassSodaWort.description>Prepare barley grain and syrup into a wort for making kvass soda. This substance needs to ferment in a fermenting barrel before it becomes drinkable kvass soda.</VG_KvassSodaWort.description>
+
+  <VG_FruitKvassWort.label>fruit kvass wort</VG_FruitKvassWort.label>
+  <VG_FruitKvassWort.description>Prepare fruits and syrup into a wort for making a kvass drink. This substance needs to ferment in a fermenting barrel before it becomes drinkable kvass.</VG_FruitKvassWort.description>
+
+  <VG_VegKvassWort.label>beet kvass wort</VG_VegKvassWort.label>
+  <VG_VegKvassWort.description>Prepare beets  and syrup into a wort for making a kvass drink. This substance needs to ferment in a fermenting barrel before it becomes drinkable kvass.</VG_VegKvassWort.description>
+
+
+</LanguageData>

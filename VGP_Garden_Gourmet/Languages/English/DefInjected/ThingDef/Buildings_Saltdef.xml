@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Resource rocks -->
+
+  <MineableSalt.label>compacted salt</MineableSalt.label>
+  <MineableSalt.description>Salt compacted over time..</MineableSalt.description>
+
+  <ChunkSalt.label>salt</ChunkSalt.label>
+  <ChunkSalt.description>Salt is used into preservation of foods.</ChunkSalt.description>
+
+  <VG_SaltMine.label>salt mine</VG_SaltMine.label>
+  <VG_SaltMine.description>Place on rough stone for digging up salt.</VG_SaltMine.description>
+  <VG_SaltMine_Blueprint.label>salt mine (blueprint)</VG_SaltMine_Blueprint.label>
+  <VG_SaltMine_Frame.label>salt mine (building)</VG_SaltMine_Frame.label>
+  <VG_SaltMine_Frame.description>Place on rough stone for digging up salt.</VG_SaltMine_Frame.description>
+
+
+</LanguageData>

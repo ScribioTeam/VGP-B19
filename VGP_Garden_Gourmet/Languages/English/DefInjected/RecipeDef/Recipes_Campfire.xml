@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrillKabob.label>grill two kabobs</GrillKabob.label>
+  <GrillKabob.description>Meats and/or vegetables skewered on a stick and grilled to perfection.</GrillKabob.description>
+  <GrillKabob.jobString>Grilling kabob.</GrillKabob.jobString>
+
+  <Grillsteak.label>grill two steaks</Grillsteak.label>
+  <Grillsteak.description>Meat that has been cooked over a grill. //nMakes 2 Steaks.</Grillsteak.description>
+  <Grillsteak.jobString>Grilling steak.</Grillsteak.jobString>
+
+  <GrillVegetables.label>grill two vegetables</GrillVegetables.label>
+  <GrillVegetables.description>Vegetables that have been cooked over a grill.</GrillVegetables.description>
+  <GrillVegetables.jobString>Grilling vegetables.</GrillVegetables.jobString>
+
+
+</LanguageData>

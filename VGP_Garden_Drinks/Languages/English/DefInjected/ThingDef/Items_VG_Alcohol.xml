@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <cider.label>Apple cider</cider.label>
+  <cider.description>Shinzee's Apple Cider is a sweet alcohol from apples.</cider.description>
+  <cider.tools.0.label>bottle</cider.tools.0.label>
+  <cider.tools.1.label>neck</cider.tools.1.label>
+  <cider.ingestible.ingestCommandString>Drink {0}</cider.ingestible.ingestCommandString>
+  <cider.ingestible.ingestReportString>Drinking {0}.</cider.ingestible.ingestReportString>
+
+  <rum.label>Rum</rum.label>
+  <rum.description>REinstein's Rum. Where's all the rum gone?</rum.description>
+  <rum.tools.0.label>bottle</rum.tools.0.label>
+  <rum.tools.1.label>neck</rum.tools.1.label>
+  <rum.ingestible.ingestCommandString>Drink {0}</rum.ingestible.ingestCommandString>
+  <rum.ingestible.ingestReportString>Drinking {0}.</rum.ingestible.ingestReportString>
+
+  <Wine.label>Wine</Wine.label>
+  <Wine.description>A sweet alcohol from grapes. From Ramsi's Private Reserves often stolen and smuggled.</Wine.description>
+  <Wine.tools.0.label>bottle</Wine.tools.0.label>
+  <Wine.tools.1.label>neck</Wine.tools.1.label>
+  <Wine.ingestible.ingestCommandString>Drink {0}</Wine.ingestible.ingestCommandString>
+  <Wine.ingestible.ingestReportString>Drinking {0}.</Wine.ingestible.ingestReportString>
+
+  <strawberrywine.label>Berry Wine</strawberrywine.label>
+  <strawberrywine.description>The artist Spoonshortage had two passions in life. Art and her love of Strawberry wine. So much so that she spent her vast wealth developing her own brand. It quickly spread across the Rim, as the best and only brand to drink. It is a sweet, pinkish alcohol from strawberries.</strawberrywine.description>
+  <strawberrywine.tools.0.label>bottle</strawberrywine.tools.0.label>
+  <strawberrywine.tools.1.label>neck</strawberrywine.tools.1.label>
+  <strawberrywine.ingestible.ingestCommandString>Drink {0}</strawberrywine.ingestible.ingestCommandString>
+  <strawberrywine.ingestible.ingestReportString>Drinking {0}.</strawberrywine.ingestible.ingestReportString>
+
+  <saki.label>Sake</saki.label>
+  <saki.description>WHiZ Sake. A crisp, refreshing alcohol from rice.</saki.description>
+  <saki.tools.0.label>bottle</saki.tools.0.label>
+  <saki.tools.1.label>neck</saki.tools.1.label>
+  <saki.ingestible.ingestCommandString>Drink {0}</saki.ingestible.ingestCommandString>
+  <saki.ingestible.ingestReportString>Drinking {0}.</saki.ingestible.ingestReportString>
+
+  <vodka.label>Vodka</vodka.label>
+  <vodka.description>Syntria brand vodka is a clear, potato based alcohol. Created by the one of the Rim's most famous TV personalities.</vodka.description>
+  <vodka.tools.0.label>bottle</vodka.tools.0.label>
+  <vodka.tools.1.label>neck</vodka.tools.1.label>
+  <vodka.ingestible.ingestCommandString>Drink {0}</vodka.ingestible.ingestCommandString>
+  <vodka.ingestible.ingestReportString>Drinking {0}.</vodka.ingestible.ingestReportString>
+
+  <tequila.label>Tequila</tequila.label>
+  <tequila.description>Kitty's Tequila is a potent liquor made of agave. It has a picture of what looks like a naked and inebriated female cat person on the bottle. Once discovered by a certain Orassan, she quickly perfected the recipe and it became a very popular drink on Orassia and developed an even more storied reputation.</tequila.description>
+  <tequila.tools.0.label>bottle</tequila.tools.0.label>
+  <tequila.tools.1.label>neck</tequila.tools.1.label>
+  <tequila.ingestible.ingestCommandString>Drink {0}</tequila.ingestible.ingestCommandString>
+  <tequila.ingestible.ingestReportString>Drinking {0}.</tequila.ingestible.ingestReportString>
+
+  <whisky.label>Whisky</whisky.label>
+  <whisky.description>Quill's #18 whisky. Takes 18 years to age this drink to perfection. Tho cheap knockoffs have been made to add flavors to speed up the process. A golden, corn based alcohol.</whisky.description>
+  <whisky.tools.0.label>bottle</whisky.tools.0.label>
+  <whisky.tools.1.label>neck</whisky.tools.1.label>
+  <whisky.ingestible.ingestCommandString>Drink {0}</whisky.ingestible.ingestCommandString>
+  <whisky.ingestible.ingestReportString>Drinking {0}.</whisky.ingestible.ingestReportString>
+
+  <BrownAle.label>Brown Ale</BrownAle.label>
+  <BrownAle.description>Barky's Brown Ale. A dark amber coloured beer. Made from barley grains.</BrownAle.description>
+  <BrownAle.tools.0.label>bottle</BrownAle.tools.0.label>
+  <BrownAle.tools.1.label>neck</BrownAle.tools.1.label>
+  <BrownAle.ingestible.ingestCommandString>Drink {0}</BrownAle.ingestible.ingestCommandString>
+  <BrownAle.ingestible.ingestReportString>Drinking {0}.</BrownAle.ingestible.ingestReportString>
+
+  <Fruitshine.label>Fruitshine</Fruitshine.label>
+  <Fruitshine.description>Fruitshine is a sweet alcohol from fruits. Based off of age old moonshining recipes.</Fruitshine.description>
+  <Fruitshine.tools.0.label>bottle</Fruitshine.tools.0.label>
+  <Fruitshine.tools.1.label>neck</Fruitshine.tools.1.label>
+  <Fruitshine.ingestible.ingestCommandString>Drink {0}</Fruitshine.ingestible.ingestCommandString>
+  <Fruitshine.ingestible.ingestReportString>Drinking {0}.</Fruitshine.ingestible.ingestReportString>
+
+
+</LanguageData>

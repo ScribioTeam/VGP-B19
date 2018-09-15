@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPD_MakeCornWort.label>faire du moût de maïs</CPD_MakeCornWort.label>
+  <CPD_MakeCornWort.description>Faire du moût avec du maïs.</CPD_MakeCornWort.description>
+  <CPD_MakeCornWort.jobString>Fabrication de moût de maïs </CPD_MakeCornWort.jobString>
+
+  <CPD_MakeRiceMash.label>faire du moût de riz</CPD_MakeRiceMash.label>
+  <CPD_MakeRiceMash.description>Préparer de la moût de riz pour la préparation du saké.</CPD_MakeRiceMash.description>
+  <CPD_MakeRiceMash.jobString>Fabrication de moût de riz.</CPD_MakeRiceMash.jobString>
+
+  <DistillVodka.label>vodka distillée</DistillVodka.label>
+  <DistillVodka.description>Filtrer et distiller le précurseur de vodka en vodka.</DistillVodka.description>
+  <DistillVodka.jobString>Distillation des pommes de terre.</DistillVodka.jobString>
+
+  <CPD_MakeWineMust.label>faire du moût de raisin</CPD_MakeWineMust.label>
+  <CPD_MakeWineMust.description>Faire du moût de vin à partir de baies.</CPD_MakeWineMust.description>
+  <CPD_MakeWineMust.jobString>Fabrication de moût de raisin.</CPD_MakeWineMust.jobString>
+
+  <VG_MakeGrapeMust.label>faire du moût de vin</VG_MakeGrapeMust.label>
+  <VG_MakeGrapeMust.description>Faire du moût de vin avec du raisin.</VG_MakeGrapeMust.description>
+  <VG_MakeGrapeMust.jobString>Fabrication de moût de vin.</VG_MakeGrapeMust.jobString>
+
+  <VG_MakeCiderMust.label>fabrication du moût de cidre</VG_MakeCiderMust.label>
+  <VG_MakeCiderMust.description>Faites du moût de cidre à partir de pommes.</VG_MakeCiderMust.description>
+  <VG_MakeCiderMust.jobString>Fabrication de moût de cidre.</VG_MakeCiderMust.jobString>
+
+  <VG_MakeCaneMust.label>faire du moût de canne à sucre</VG_MakeCaneMust.label>
+  <VG_MakeCaneMust.description>Fabriquez du moût de canne à sucre à partir de la canne à sucre.</VG_MakeCaneMust.description>
+  <VG_MakeCaneMust.jobString>Fabrication de moût de canne à sucre.</VG_MakeCaneMust.jobString>
+
+  <VG_MakeAgaveMust.label>faire du moût d'agave</VG_MakeAgaveMust.label>
+  <VG_MakeAgaveMust.description>Faire du moût d'agave à partir d'agave.</VG_MakeAgaveMust.description>
+  <VG_MakeAgaveMust.jobString>Fabrication de moût d'agave.</VG_MakeAgaveMust.jobString>
+
+  <VG_MakeBrownMalt.label>faire du malt brun</VG_MakeBrownMalt.label>
+  <VG_MakeBrownMalt.description>Préparez du malt brun à partir de l'orge.</VG_MakeBrownMalt.description>
+  <VG_MakeBrownMalt.jobString>Fabrication de malt brun</VG_MakeBrownMalt.jobString>
+
+  <VG_MakeFruitMash.label>faire du moût de fruits</VG_MakeFruitMash.label>
+  <VG_MakeFruitMash.description>Faites de la moût de fruits à partir de fruits.</VG_MakeFruitMash.description>
+  <VG_MakeFruitMash.jobString>Fabrication de moût de fruits.</VG_MakeFruitMash.jobString>
+
+  <VG_MakeAmbrosiaMust.label>faire du moût d'ambroisie</VG_MakeAmbrosiaMust.label>
+  <VG_MakeAmbrosiaMust.description>Faites du moût d'ambroisie à partir de fruits.</VG_MakeAmbrosiaMust.description>
+  <VG_MakeAmbrosiaMust.jobString>Fabrication de moût d'ambroisie.</VG_MakeAmbrosiaMust.jobString>
+
+  <VG_MakeKvassSodaWort.label>faire du moût de kvass soda</VG_MakeKvassSodaWort.label>
+  <VG_MakeKvassSodaWort.description>Faire du moût à partir d'orge et de sirop.</VG_MakeKvassSodaWort.description>
+  <VG_MakeKvassSodaWort.jobString>Fabrication de moût de kvass soda</VG_MakeKvassSodaWort.jobString>
+
+  <VG_MakeFruitKvassWort.label>faire du moût de fruit kvass</VG_MakeFruitKvassWort.label>
+  <VG_MakeFruitKvassWort.description>Faire du moût à partir de fruits et de sirop.</VG_MakeFruitKvassWort.description>
+  <VG_MakeFruitKvassWort.jobString>Fabrication de moût de fruit kvass.</VG_MakeFruitKvassWort.jobString>
+
+  <VG_MakeVegKvassWort.label>faire du moût de betterave kvass</VG_MakeVegKvassWort.label>
+  <VG_MakeVegKvassWort.description>Faire du moût à partir de betterave des neiges et de sirop.</VG_MakeVegKvassWort.description>
+  <VG_MakeVegKvassWort.jobString>Fabrication de moût de betterave kvass.</VG_MakeVegKvassWort.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sweet -->
+
+  <MakeHardcandy.label>faire quatre bonbons durs</MakeHardcandy.label>
+  <MakeHardcandy.description>Transformez le sucre en bonbons durs sucrés.</MakeHardcandy.description>
+  <MakeHardcandy.jobString>Fabrication de bonbons.</MakeHardcandy.jobString>
+
+  <MakeCaramel.label>faire quatre caramels</MakeCaramel.label>
+  <MakeCaramel.description>Transformez le sucre en bonbons sucrés.</MakeCaramel.description>
+  <MakeCaramel.jobString>Fabrication de bonbons.</MakeCaramel.jobString>
+
+  <MakeTaffy.label>faire quatre pralines</MakeTaffy.label>
+  <MakeTaffy.description>Transformez le sucre en bonbons sucrés.</MakeTaffy.description>
+  <MakeTaffy.jobString>Fabrication de bonbons.</MakeTaffy.jobString>
+
+  <MakeIcecream.label>faire deux crèmes glacées</MakeIcecream.label>
+  <MakeIcecream.description>Une friandise glacée sucrée à base de lait. \n\nDonne 2 portions. \n\nEffets des aliments : Déplacement et pompage sanguin.</MakeIcecream.description>
+  <MakeIcecream.jobString>Fabrication de crème glacée</MakeIcecream.jobString>
+
+  <MakeYogurt.label>faire deux yaourts</MakeYogurt.label>
+  <MakeYogurt.description>Une gourmandise sucrée à base de lait. \n\nDonne 2 portions. \n\nEffets des aliments : Filtration de la vue et du sang.</MakeYogurt.description>
+  <MakeYogurt.jobString>fabrication de yogourt</MakeYogurt.jobString>
+
+  <MakeSmoothie.label>faire quatre smoothies</MakeSmoothie.label>
+  <MakeSmoothie.description>Une boisson sucrée à base de fruits et de lait. \n\nDonne 4 portions. \n\nEffets des aliments : La vue et le mouvement.</MakeSmoothie.description>
+  <MakeSmoothie.jobString>Préparation de smoothie.</MakeSmoothie.jobString>
+
+
+</LanguageData>

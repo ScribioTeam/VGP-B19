@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPD_MakeCornWort.label>make corn wort</CPD_MakeCornWort.label>
+  <CPD_MakeCornWort.description>Make wort from corn.</CPD_MakeCornWort.description>
+  <CPD_MakeCornWort.jobString>Making corn wort.</CPD_MakeCornWort.jobString>
+
+  <CPD_MakeRiceMash.label>make rice mash</CPD_MakeRiceMash.label>
+  <CPD_MakeRiceMash.description>Make rice mash for brewing saki.</CPD_MakeRiceMash.description>
+  <CPD_MakeRiceMash.jobString>Making rice mash.</CPD_MakeRiceMash.jobString>
+
+  <DistillVodka.label>distill vodka</DistillVodka.label>
+  <DistillVodka.description>Filter and distill vodka precursor into vodka.</DistillVodka.description>
+  <DistillVodka.jobString>Distilling potatoes.</DistillVodka.jobString>
+
+  <CPD_MakeWineMust.label>make berry wine must</CPD_MakeWineMust.label>
+  <CPD_MakeWineMust.description>Make wine must from berries.</CPD_MakeWineMust.description>
+  <CPD_MakeWineMust.jobString>Making berry must.</CPD_MakeWineMust.jobString>
+
+  <VG_MakeGrapeMust.label>make wine must</VG_MakeGrapeMust.label>
+  <VG_MakeGrapeMust.description>Make wine must from grapes.</VG_MakeGrapeMust.description>
+  <VG_MakeGrapeMust.jobString>Making wine must.</VG_MakeGrapeMust.jobString>
+
+  <VG_MakeCiderMust.label>make cider must</VG_MakeCiderMust.label>
+  <VG_MakeCiderMust.description>Make cider must from apples.</VG_MakeCiderMust.description>
+  <VG_MakeCiderMust.jobString>Making cider must.</VG_MakeCiderMust.jobString>
+
+  <VG_MakeCaneMust.label>make Cane must</VG_MakeCaneMust.label>
+  <VG_MakeCaneMust.description>Make cane must from sugarcane.</VG_MakeCaneMust.description>
+  <VG_MakeCaneMust.jobString>Making cane must.</VG_MakeCaneMust.jobString>
+
+  <VG_MakeAgaveMust.label>make Agave must</VG_MakeAgaveMust.label>
+  <VG_MakeAgaveMust.description>Make agave must from agave.</VG_MakeAgaveMust.description>
+  <VG_MakeAgaveMust.jobString>Making agave must.</VG_MakeAgaveMust.jobString>
+
+  <VG_MakeBrownMalt.label>make Brown malt</VG_MakeBrownMalt.label>
+  <VG_MakeBrownMalt.description>Make brown malt from barley.</VG_MakeBrownMalt.description>
+  <VG_MakeBrownMalt.jobString>Making brown malt.</VG_MakeBrownMalt.jobString>
+
+  <VG_MakeFruitMash.label>make fruit mash</VG_MakeFruitMash.label>
+  <VG_MakeFruitMash.description>Make fruit mash from fruit.</VG_MakeFruitMash.description>
+  <VG_MakeFruitMash.jobString>Making fruit mash.</VG_MakeFruitMash.jobString>
+
+  <VG_MakeAmbrosiaMust.label>make ambrosia must</VG_MakeAmbrosiaMust.label>
+  <VG_MakeAmbrosiaMust.description>Make ambrosia must from fruit.</VG_MakeAmbrosiaMust.description>
+  <VG_MakeAmbrosiaMust.jobString>Making ambrosia must.</VG_MakeAmbrosiaMust.jobString>
+
+  <VG_MakeKvassSodaWort.label>make kvass soda wort</VG_MakeKvassSodaWort.label>
+  <VG_MakeKvassSodaWort.description>Make wort from barley and syrup.</VG_MakeKvassSodaWort.description>
+  <VG_MakeKvassSodaWort.jobString>Making kvass soda wort.</VG_MakeKvassSodaWort.jobString>
+
+  <VG_MakeFruitKvassWort.label>make fruit kvass wort</VG_MakeFruitKvassWort.label>
+  <VG_MakeFruitKvassWort.description>Make wort from fruit and syrup.</VG_MakeFruitKvassWort.description>
+  <VG_MakeFruitKvassWort.jobString>Making kvass wort.</VG_MakeFruitKvassWort.jobString>
+
+  <VG_MakeVegKvassWort.label>make beet kvass wort</VG_MakeVegKvassWort.label>
+  <VG_MakeVegKvassWort.description>Make wort from snow beats and syrup.</VG_MakeVegKvassWort.description>
+  <VG_MakeVegKvassWort.jobString>Making kvass wort.</VG_MakeVegKvassWort.jobString>
+
+
+</LanguageData>

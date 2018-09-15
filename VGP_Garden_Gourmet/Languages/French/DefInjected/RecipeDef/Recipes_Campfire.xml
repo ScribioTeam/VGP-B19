@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrillKabob.label>griller deux brochettes</GrillKabob.label>
+  <GrillKabob.description>Viandes et/ou légumes en brochette sur un bâtonnet et grillés à la perfection.</GrillKabob.description>
+  <GrillKabob.jobString>Grillade des brochettes.</GrillKabob.jobString>
+
+  <Grillsteak.label>griller deux steaks</Grillsteak.label>
+  <Grillsteak.description>Viande cuite sur le gril. /n/nDonne 2 steaks.</Grillsteak.description>
+  <Grillsteak.jobString>Grillade des steaks</Grillsteak.jobString>
+
+  <GrillVegetables.label>griller deux légumes</GrillVegetables.label>
+  <GrillVegetables.description>Légumes cuits sur le gril.</GrillVegetables.description>
+  <GrillVegetables.jobString>Grillade des légumes.</GrillVegetables.jobString>
+
+
+</LanguageData>

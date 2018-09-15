@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BakeBread.label>faire cuire trois pains</BakeBread.label>
+  <BakeBread.description>Cuire le pain fait de farine. \n\nDonne 3 pains.</BakeBread.description>
+  <BakeBread.jobString>Cuisson du pain.</BakeBread.jobString>
+
+  <Bakesweetroll.label>faire cuire quatre petits pains sucrés</Bakesweetroll.label>
+  <Bakesweetroll.description>Un petit pain sucré recouvert d'un glaçage sucré. \n\nDonne 4 portions. \n\nEffets des aliments : Conscience et mouvement.</Bakesweetroll.description>
+  <Bakesweetroll.jobString>Cuisson des petits pains sucrés.</Bakesweetroll.jobString>
+
+  <Bakepizza.label>faire cuire trois pizzas</Bakepizza.label>
+  <Bakepizza.description>Pizza au four. \n\nDonne 3 portions. \n\nEffets des aliments : Conscience et métabolisme.</Bakepizza.description>
+  <Bakepizza.jobString>Cuisson de la pizza.</Bakepizza.jobString>
+
+  <BakeCookies.label>faire des cookies</BakeCookies.label>
+  <BakeCookies.description>Cuire six cookies. \n\nDonne 6 cookies.</BakeCookies.description>
+  <BakeCookies.jobString>Cuisson des cookies.</BakeCookies.jobString>
+
+  <BakeBlueberryPie.label>faire cuire trois tartes</BakeBlueberryPie.label>
+  <BakeBlueberryPie.description>Faites cuire une savoureuse tarte remplie de fruits. \n\nDonne 3 tranches de tarte.</BakeBlueberryPie.description>
+  <BakeBlueberryPie.jobString>Cuisson des tartes.</BakeBlueberryPie.jobString>
+
+  <DryFruit.label>déshydrater dix fruits</DryFruit.label>
+  <DryFruit.description>Séchage des fruits pour augmenter leur durée de vie.</DryFruit.description>
+  <DryFruit.jobString>Déshydratation des fruits.</DryFruit.jobString>
+
+  <Bakepolenta.label>faire cuire un pain à la polenta</Bakepolenta.label>
+  <Bakepolenta.description>Faites cuire un délicieux pain de polenta. \n\nDonne 1 tranche.</Bakepolenta.description>
+  <Bakepolenta.jobString>Cuisson du pain à la polenta.</Bakepolenta.jobString>
+
+  <BakeCornbread.label>faire cuire deux pains de maïs</BakeCornbread.label>
+  <BakeCornbread.description>Faites cuire un pain de maïs savoureux. \n\nDonne 2 pains.</BakeCornbread.description>
+  <BakeCornbread.jobString>Cuisson du pain de maïs.</BakeCornbread.jobString>
+
+  <Bakemuffin.label>cuire six muffins</Bakemuffin.label>
+  <Bakemuffin.description>Faites cuire de savoureux muffins.\n\nPrend 8 farines. 4 Sucre. Et 6 de chocolat, de fruits ou de semoule de maïs. \n\nDonne 6 muffins.</Bakemuffin.description>
+  <Bakemuffin.jobString>Cuisson des muffins.</Bakemuffin.jobString>
+
+  <BakeMeatPie.label>faire cuire deux pâtés en croûte</BakeMeatPie.label>
+  <BakeMeatPie.description>Faites cuire un paté en croûte savoureux. \n\nDonne 2 tartes.</BakeMeatPie.description>
+  <BakeMeatPie.jobString>Cuisson des patés en croûte.</BakeMeatPie.jobString>
+
+
+</LanguageData>

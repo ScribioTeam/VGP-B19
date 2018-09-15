@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.label>sortir le produit du fermenteur</VG_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>prendre le produit</VG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <VG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>en prenant le produit de</VG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+
+  <VG_WorkGiver_FillUniversalFermenter.label>Remplissage du fermenteur</VG_WorkGiver_FillUniversalFermenter.label>
+  <VG_WorkGiver_FillUniversalFermenter.verb>remplir</VG_WorkGiver_FillUniversalFermenter.verb>
+  <VG_WorkGiver_FillUniversalFermenter.gerund>en remplissant</VG_WorkGiver_FillUniversalFermenter.gerund>
+
+
+</LanguageData>

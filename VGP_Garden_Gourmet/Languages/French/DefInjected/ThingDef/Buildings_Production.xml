@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Oven.label>four</Oven.label>
+  <Oven.description>Un four en pierre utilisé pour la cuisson.</Oven.description>
+  <Oven_Blueprint.label>four (projet)</Oven_Blueprint.label>
+  <Oven_Blueprint_Install.label>four (projet)</Oven_Blueprint_Install.label>
+  <Oven_Frame.label>four (objet)</Oven_Frame.label>
+  <Oven_Frame.description>Un four en pierre utilisé pour la cuisson.</Oven_Frame.description>
+
+  <ElectricOven.label>four électrique</ElectricOven.label>
+  <ElectricOven.description>Un four électrique utilisé pour la cuisson.</ElectricOven.description>
+  <ElectricOven_Blueprint.label>four électrique (projet)</ElectricOven_Blueprint.label>
+  <ElectricOven_Blueprint_Install.label>four électrique (projet)</ElectricOven_Blueprint_Install.label>
+  <ElectricOven_Frame.label>four électrique (objet)</ElectricOven_Frame.label>
+  <ElectricOven_Frame.description>Un four électrique utilisé pour la cuisson.</ElectricOven_Frame.description>
+
+  <HandCanningstove.label>Table de préparation totale des aliments</HandCanningstove.label>
+  <HandCanningstove.description>Une version non alimentée du réchaud à conserves, de la presse à aliments et de la table de préparation. Fabrique des articles simples. Nécessite 40% de travail pour la fabrication d'articles ici.</HandCanningstove.description>
+  <HandCanningstove_Blueprint.label>Table de préparation des aliments (projet)</HandCanningstove_Blueprint.label>
+  <HandCanningstove_Blueprint_Install.label>Table de préparation des aliments (projet)</HandCanningstove_Blueprint_Install.label>
+  <HandCanningstove_Frame.label>Table de préparation des aliments (objet)</HandCanningstove_Frame.label>
+  <HandCanningstove_Frame.description>Une version non alimentée du réchaud à conserves, de la presse à aliments et de la table de préparation. Fabrique des articles simples. Nécessite 40% de travail pour la fabrication d'articles ici.</HandCanningstove_Frame.description>
+
+  <Canningstove.label>Table de préparation des aliments</Canningstove.label>
+  <Canningstove.description>Une cuisinière électrique, un presse-agrumes et une table de préparation.</Canningstove.description>
+  <Canningstove_Blueprint.label>Table de préparation des aliments (projet)</Canningstove_Blueprint.label>
+  <Canningstove_Blueprint_Install.label>Table de préparation des aliments (projet)</Canningstove_Blueprint_Install.label>
+  <Canningstove_Frame.label>Table de préparation des aliments (objet)</Canningstove_Frame.label>
+  <Canningstove_Frame.description>Une cuisinière électrique, un presse-agrumes et une table de préparation.</Canningstove_Frame.description>
+
+  <FueledCandyTable.label>Table de sucreries totale</FueledCandyTable.label>
+  <FueledCandyTable.description>Fait de doux traitements</FueledCandyTable.description>
+  <FueledCandyTable_Blueprint.label>Table de sucreries totale (projet)</FueledCandyTable_Blueprint.label>
+  <FueledCandyTable_Blueprint_Install.label>Table de sucreries totale (projet)</FueledCandyTable_Blueprint_Install.label>
+  <FueledCandyTable_Frame.label>Table de sucreries totale (objet)</FueledCandyTable_Frame.label>
+  <FueledCandyTable_Frame.description>Fait de doux traitements</FueledCandyTable_Frame.description>
+
+  <CandyTable.label>Table de sucreries</CandyTable.label>
+  <CandyTable.description>Fait de doux traitements.</CandyTable.description>
+  <CandyTable_Blueprint.label>Table de sucreries (projet)</CandyTable_Blueprint.label>
+  <CandyTable_Blueprint_Install.label>STable de sucreries (projet)</CandyTable_Blueprint_Install.label>
+  <CandyTable_Frame.label>Table de sucreries (objet)</CandyTable_Frame.label>
+  <CandyTable_Frame.description>Fait de doux traitements.</CandyTable_Frame.description>
+
+  <CookingTools.label>Ustensiles de cuisine</CookingTools.label>
+  <CookingTools.description>Augmente la vitesse de travail de 14%. Doit être placé près des plaques de cuisson. Augmente la vitesse de cuisson de toutes les tables à proximité.</CookingTools.description>
+  <CookingTools_Blueprint.label>Ustensiles de cuisine (projet)</CookingTools_Blueprint.label>
+  <CookingTools_Blueprint_Install.label>Ustensiles de cuisine (projet)</CookingTools_Blueprint_Install.label>
+  <CookingTools_Frame.label>Ustensiles de cuisine (objet)</CookingTools_Frame.label>
+  <CookingTools_Frame.description>Augmente la vitesse de travail de 14%. Doit être placé près des plaques de cuisson. Augmente la vitesse de cuisson de toutes les tables à proximité.</CookingTools_Frame.description>
+
+  <GrindStone.label>pierre meunière</GrindStone.label>
+  <GrindStone.description>Une petite meule musclée pour le broyage rapide de plantes crues.</GrindStone.description>
+  <GrindStone_Blueprint.label>pierre meunière (projet)</GrindStone_Blueprint.label>
+  <GrindStone_Blueprint_Install.label>pierre meunière (projet)</GrindStone_Blueprint_Install.label>
+  <GrindStone_Frame.label>pierre meunière (objet)</GrindStone_Frame.label>
+  <GrindStone_Frame.description>Une petite meule musclée pour le broyage rapide de plantes crues..</GrindStone_Frame.description>
+
+
+</LanguageData>

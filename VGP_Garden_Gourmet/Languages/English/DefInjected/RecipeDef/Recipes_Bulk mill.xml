@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CraftFlour.label>grind grains into flour</CraftFlour.label>
+  <CraftFlour.description>Grind grains into flour.</CraftFlour.description>
+  <CraftFlour.jobString>Making flour.</CraftFlour.jobString>
+
+  <CraftBulkFlour.label>grind bulk grains into flour</CraftBulkFlour.label>
+  <CraftBulkFlour.description>Grind grains into flour.</CraftBulkFlour.description>
+  <CraftBulkFlour.jobString>Making bulk flour.</CraftBulkFlour.jobString>
+
+  <CraftCornmeal.label>grind cornmeal</CraftCornmeal.label>
+  <CraftCornmeal.description>Grind corn into cornmeal.</CraftCornmeal.description>
+  <CraftCornmeal.jobString>Grinding corn.</CraftCornmeal.jobString>
+
+  <CraftBulkCornMeal.label>grind bulk cornmeal</CraftBulkCornMeal.label>
+  <CraftBulkCornMeal.description>Grind corn into cornmeal.</CraftBulkCornMeal.description>
+  <CraftBulkCornMeal.jobString>Grinding corn.</CraftBulkCornMeal.jobString>
+
+  <GroundSugar.label>grind sugarcane</GroundSugar.label>
+  <GroundSugar.description>Beat and grind those canes to get at that sugar!</GroundSugar.description>
+  <GroundSugar.jobString>Grinding sugarcane.</GroundSugar.jobString>
+
+  <CraftBulkSugar.label>grind bulk sugarcane</CraftBulkSugar.label>
+  <CraftBulkSugar.description>Beat and grind those canes to get at that sugar!</CraftBulkSugar.description>
+  <CraftBulkSugar.jobString>Grinding sugarcane.</CraftBulkSugar.jobString>
+
+
+</LanguageData>

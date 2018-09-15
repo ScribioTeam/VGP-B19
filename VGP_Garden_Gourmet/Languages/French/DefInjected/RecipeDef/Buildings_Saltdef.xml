@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Resource rocks -->
+
+  <VG_Minesalt.label>mine de sel</VG_Minesalt.label>
+  <VG_Minesalt.description>Extrait le sel de la pierre brute. Il faut beaucoup de travail</VG_Minesalt.description>
+  <VG_Minesalt.jobString>Minage du sel.</VG_Minesalt.jobString>
+
+
+</LanguageData>
